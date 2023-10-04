@@ -3,3 +3,5 @@ https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-
 https://github.com/thmsgbrt/thmsgbrt
 
 https://github.com/isaacrlevin/isaacrlevin
+
+https://dev.to/envoy_/150-badges-for-github-pnk
