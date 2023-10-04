@@ -44,20 +44,20 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark5900" alt="Mark5900" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mark5900&show_icons=true" alt="Mark5900" />
 </div>
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
-<br class=”blank” />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <h3>Where to find me</h3>
 <p>
@@ -73,7 +73,7 @@
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-    Last refresh: Wednesday, 4 October at 19:25 CEST<br />
+    Last refresh: Wednesday, 4 October, 19:50 CEST<br />
 <br/>
 
 <p align="center">
