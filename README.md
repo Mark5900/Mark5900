@@ -24,7 +24,7 @@
   </thead>
   <tbody>
     <tr>
-	  <td><a href="hhttps://github.com/Mark5900/Capa.PowerShell.Module"><b>Capa.PowerShell.Module</b></a></td>
+	  <td><a href="https://github.com/Mark5900/Capa.PowerShell.Module"><b>Capa.PowerShell.Module</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Mark5900/Capa.PowerShell.Module?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Mark5900/Capa.PowerShell.Module?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Mark5900/Capa.PowerShell.Module?style=flat-square&labelColor=343b41"/></td>
@@ -73,7 +73,7 @@
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-    Last refresh: Wednesday, 4 October, 19:50 CEST<br />
+    Last refresh: Wednesday, 4 October, 19:51 CEST<br />
 <br/>
 
 <p align="center">
