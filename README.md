@@ -73,7 +73,7 @@
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-    Last refresh: Friday, 24 May, 14:00 CEST<br />
+    Last refresh: Friday, 24 May, 17:00 CEST<br />
 <br/>
 
 <p align="center">
