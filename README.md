@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mark, Consultant from <img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="13"/> <b>Langeland, Denmark</b>, working in Skanderborg.
+<p>Welcome to my page! </br> I'm Mark, System Consultant from <img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="13"/> <b>Langeland, Denmark</b>, working in Odense.
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -73,7 +73,7 @@
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-    Last refresh: Sunday, 15 June, 14:01 CEST<br />
+    Last refresh: Sunday, 15 June, 15:42 CEST<br />
 <br/>
 
 <p align="center">
