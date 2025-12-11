@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mark, Consultant from <img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="13"/> <b>Langeland, Denmark</b>, working in Skanderborg.
+<p>Welcome to my page! </br> I'm Mark, System Consultant from <img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="13"/> <b>Langeland, Denmark</b>, working in Odense.
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -63,7 +63,7 @@
 <p>
     <a href="https://github.com/Mark5900" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
+    </a> 
     <a href="https://www.linkedin.com/in/mark-bønnelykke-rasmussen-b95a0312b/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -73,7 +73,7 @@
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-    Last refresh: Thursday, 11 December, 13:00 CET<br />
+    Last refresh: Thursday, 11 December, 15:00 CET<br />
 <br/>
 
 <p align="center">
@@ -84,7 +84,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/Mark5900/Mark5900/workflows/README%20build/badge.svg" />
-<img alt="Stars" src="https://img.shields.io/github/stars/Mark5900/Mark5900?style=flat-square&labelColor=343b41"/>
+<img src="https://github.com/Mark5900/Mark5900/workflows/README%20build/badge.svg" /> 
+<img alt="Stars" src="https://img.shields.io/github/stars/Mark5900/Mark5900?style=flat-square&labelColor=343b41"/> 
 <img alt="Forks" src="https://img.shields.io/github/forks/Mark5900/Mark5900?style=flat-square&labelColor=343b41"/>
 </p>
